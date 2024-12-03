@@ -15,75 +15,84 @@ title: "Yansiel Melendez Portfolio"
 </nav>
 
 <div id="welcome">
-  # **👨‍💻 Yansiel Melendez**
-
-  ## **🌟 Welcome to My Portfolio**
-  Hello! I’m **Yansiel Melendez**, a dedicated and certified **Cybersecurity Specialist** passionate about securing digital assets. With **Security+** and **Network+ certifications**, I combine a solid understanding of foundational cybersecurity practices with a commitment to continuous learning. 
-
-  I am actively building my portfolio to showcase my skills in vulnerability assessment, penetration testing, and network security. Whether you’re a recruiter, hiring manager, or collaborator, I invite you to explore my journey and see how I can contribute to your organization.
+  <h1>👨‍💻 Yansiel Melendez</h1>
+  <h2>🌟 Welcome to My Portfolio</h2>
+  <p>Hello! I’m <strong>Yansiel Melendez</strong>, a dedicated and certified <strong>Cybersecurity Specialist</strong> passionate about securing digital assets. With <strong>Security+</strong> and <strong>Network+ certifications</strong>, I combine a solid understanding of foundational cybersecurity practices with a commitment to continuous learning.</p>
+  <p>I am actively building my portfolio to showcase my skills in vulnerability assessment, penetration testing, and network security. Whether you’re a recruiter, hiring manager, or collaborator, I invite you to explore my journey and see how I can contribute to your organization.</p>
 </div>
 
 <div id="why-hire-me">
-  ## **🚀 Why Hire Me?**
-  - **Certified Expertise:** Security+ and Network+ validate my technical knowledge and commitment to industry standards.
-  - **Analytical Problem Solver:** I thrive on identifying vulnerabilities, analyzing threats, and implementing effective solutions.
-  - **Driven Learner:** Constantly sharpening my skills and staying current with emerging cybersecurity trends.
-  - **Collaborative Professional:** Experienced in team dynamics and ready to contribute to high-stakes environments.
+  <h2>🚀 Why Hire Me?</h2>
+  <ul>
+    <li><strong>Certified Expertise:</strong> Security+ and Network+ validate my technical knowledge and commitment to industry standards.</li>
+    <li><strong>Analytical Problem Solver:</strong> I thrive on identifying vulnerabilities, analyzing threats, and implementing effective solutions.</li>
+    <li><strong>Driven Learner:</strong> Constantly sharpening my skills and staying current with emerging cybersecurity trends.</li>
+    <li><strong>Collaborative Professional:</strong> Experienced in team dynamics and ready to contribute to high-stakes environments.</li>
+  </ul>
 </div>
 
 <div id="skills-tools">
-  ## **🛠️ Skills & Tools**
-  - **Certifications:** CompTIA Security+ | CompTIA Network+
-  - **Technical Knowledge:** Network security, system hardening, and incident detection
-  - **Tools & Platforms:** 
-    - Wireshark
-    - OpenVAS
-    - Metasploit
-    - Splunk
-    - VirtualBox/VMware
-  - **Programming Languages:** Python (basic scripting), Bash
+  <h2>🛠️ Skills & Tools</h2>
+  <ul>
+    <li><strong>Certifications:</strong> CompTIA Security+ | CompTIA Network+</li>
+    <li><strong>Technical Knowledge:</strong> Network security, system hardening, and incident detection</li>
+    <li><strong>Tools & Platforms:</strong> Wireshark, OpenVAS, Metasploit, Splunk, VirtualBox/VMware</li>
+    <li><strong>Programming Languages:</strong> Python (basic scripting), Bash</li>
+  </ul>
 </div>
 
 <div id="current-projects">
-  ## **📚 Current Projects**
-  I am currently developing a portfolio of hands-on projects to showcase my skills. Here’s a preview of what’s in progress:
-
-  1. **Network Traffic Analysis**
-     - **Objective:** Use tools like Wireshark to monitor, analyze, and identify anomalies in network traffic.
-     - **Tools:** Wireshark, Splunk
-     - **Skills Highlighted:** Network monitoring, packet analysis, and anomaly detection.
-
-  2. **Vulnerability Assessment**
-     - **Objective:** Perform vulnerability scans in a virtual lab using OpenVAS to identify and address system weaknesses.
-     - **Tools:** OpenVAS
-     - **Skills Highlighted:** Vulnerability management, risk assessment, and remediation.
-
-  3. **Penetration Testing**
-     - **Objective:** Simulate attacks on the Metasploitable VM to practice real-world exploitation techniques.
-     - **Tools:** Metasploit, Kali Linux
-     - **Skills Highlighted:** Ethical hacking, exploitation, and reporting.
+  <h2>📚 Current Projects</h2>
+  <ul>
+    <li>
+      <strong>Network Traffic Analysis</strong>
+      <p><strong>Objective:</strong> Use tools like Wireshark to monitor, analyze, and identify anomalies in network traffic.</p>
+      <p><strong>Tools:</strong> Wireshark, Splunk</p>
+      <p><strong>Skills Highlighted:</strong> Network monitoring, packet analysis, and anomaly detection.</p>
+    </li>
+    <li>
+      <strong>Vulnerability Assessment</strong>
+      <p><strong>Objective:</strong> Perform vulnerability scans in a virtual lab using OpenVAS to identify and address system weaknesses.</p>
+      <p><strong>Tools:</strong> OpenVAS</p>
+      <p><strong>Skills Highlighted:</strong> Vulnerability management, risk assessment, and remediation.</p>
+    </li>
+    <li>
+      <strong>Penetration Testing</strong>
+      <p><strong>Objective:</strong> Simulate attacks on the Metasploitable VM to practice real-world exploitation techniques.</p>
+      <p><strong>Tools:</strong> Metasploit, Kali Linux</p>
+      <p><strong>Skills Highlighted:</strong> Ethical hacking, exploitation, and reporting.</p>
+    </li>
+  </ul>
 </div>
 
 <div id="career-roadmap">
-  ## **📈 Career Roadmap**
-  1. **Short-Term Goals:**
-     - Build and refine my personal cybersecurity lab.
-     - Publish technical blog posts and write-ups for my GitHub projects.
-     - Gain hands-on experience with penetration testing tools.
-
-  2. **Long-Term Goals:**
-     - Earn advanced certifications like CEH and CISSP.
-     - Contribute to open-source cybersecurity projects.
-     - Specialize in offensive security or incident response.
+  <h2>📈 Career Roadmap</h2>
+  <ol>
+    <li><strong>Short-Term Goals:</strong>
+      <ul>
+        <li>Build and refine my personal cybersecurity lab.</li>
+        <li>Publish technical blog posts and write-ups for my GitHub projects.</li>
+        <li>Gain hands-on experience with penetration testing tools.</li>
+      </ul>
+    </li>
+    <li><strong>Long-Term Goals:</strong>
+      <ul>
+        <li>Earn advanced certifications like CEH and CISSP.</li>
+        <li>Contribute to open-source cybersecurity projects.</li>
+        <li>Specialize in offensive security or incident response.</li>
+      </ul>
+    </li>
+  </ol>
 </div>
 
 <div id="contact">
-  ## **📫 Let’s Connect**
-  I’m eager to join a team where I can contribute to protecting digital ecosystems while continuing to grow as a cybersecurity professional. Let’s collaborate to make cyberspace safer.
-
-  - [📧 Email](mailto:yansiel.melendez@gmail.com)
-  - [💼 LinkedIn](https://www.linkedin.com/in/yansiel-melendez)
-  - [🔗 GitHub](https://github.com/YMQSec)
+  <h2>📫 Let’s Connect</h2>
+  <p>I’m eager to join a team where I can contribute to protecting digital ecosystems while continuing to grow as a cybersecurity professional. Let’s collaborate to make cyberspace safer.</p>
+  <ul>
+    <li><a href="mailto:yansiel.melendez@gmail.com">📧 Email</a></li>
+    <li><a href="https://www.linkedin.com/in/yansiel-melendez">💼 LinkedIn</a></li>
+    <li><a href="https://github.com/YMQSec">🔗 GitHub</a></li>
+  </ul>
 </div>
 
 <footer>
