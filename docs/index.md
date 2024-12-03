@@ -76,5 +76,3 @@ I’m eager to join a team where I can contribute to protecting digital ecosyste
 
 ## **💡 Closing Thought**
 Cybersecurity is not just my career; it’s my mission. Let’s work together to solve today’s challenges and build a safer digital future.
-
----
