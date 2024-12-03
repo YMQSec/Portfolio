@@ -5,7 +5,7 @@ layout: default
 
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
-<body class="custom">
+<body>
 <div class="hero">
   <h1>Yansiel Melendez</h1>
   <p>Cybersecurity Specialist | Ethical Hacker | Tech Enthusiast</p>
@@ -14,12 +14,12 @@ layout: default
 
 ---
 
-## 🧑‍💻 About Me
-I’m a cybersecurity specialist with a passion for protecting data and systems. I hold Security+ and Network+ certifications and am currently building my portfolio to showcase my expertise in vulnerability scanning, network analysis, and ethical hacking.
+<h2 class="section-title">🧑‍💻 About Me</h2>
+<p>I’m a cybersecurity specialist with a passion for protecting data and systems. I hold Security+ and Network+ certifications and am currently building my portfolio to showcase my expertise in vulnerability scanning, network analysis, and ethical hacking.</p>
 
 ---
 
-## 🔧 Skills
+<h2 class="section-title">🔧 Skills</h2>
 
 <table class="skills-table">
   <tr>
@@ -46,7 +46,7 @@ I’m a cybersecurity specialist with a passion for protecting data and systems.
 
 ---
 
-## 📞 Contact Me
+<h2 class="section-title">📞 Contact Me</h2>
 <div class="contact">
   Feel free to reach out via email or connect with me on GitHub:
   <p>📧 <a href="mailto:your.email@example.com">your.email@example.com</a></p>
