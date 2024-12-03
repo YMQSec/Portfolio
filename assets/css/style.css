@@ -1,8 +1,8 @@
-/* General Styling - Scoped for Professional Look */
+/* General Styling - Aligned with Cayman Theme */
 body.custom {
-    font-family: "Arial", sans-serif; /* Professional and clean */
-    color: #333;
-    background-color: #f9f9f9;
+    font-family: "Helvetica Neue", Arial, sans-serif; /* Matches Cayman default font */
+    color: #333; /* Professional dark text */
+    background-color: #f5f5f5; /* Light gray background */
     margin: 0;
     padding: 0;
 }
@@ -11,7 +11,7 @@ body.custom {
 .hero {
     text-align: center;
     padding: 50px 20px;
-    background-color: #007acc;
+    background-color: #2a7ae2; /* Matches Cayman blue */
     color: white;
 }
 
@@ -30,7 +30,7 @@ body.custom {
     display: inline-block;
     text-decoration: none;
     color: white;
-    background-color: #005f99;
+    background-color: #1455a3; /* Darker blue for contrast */
     padding: 15px 30px;
     font-size: 1rem;
     border-radius: 5px;
@@ -38,52 +38,58 @@ body.custom {
 }
 
 .hero .cta:hover {
-    background-color: #003f66;
+    background-color: #0f3e74;
 }
 
 /* Section Titles */
 h2.section-title {
     font-size: 2rem;
-    color: #007acc;
+    color: #2a7ae2; /* Matches Cayman theme colors */
     margin-top: 40px;
     text-align: center;
 }
 
-/* Skills Table - Scoped to Avoid Interference */
+/* Skills Table */
 table.skills-table {
     border-collapse: collapse;
     width: 100%;
     margin: 20px 0;
     font-size: 1rem;
+    background-color: white; /* Light background for table */
+    border: 1px solid #ddd; /* Subtle border for table */
 }
 
-table.skills-table th, 
+table.skills-table th,
 table.skills-table td {
-    border: 1px solid #ddd;
     padding: 10px;
     text-align: left;
 }
 
 table.skills-table th {
-    background-color: #007acc;
-    color: white;
+    background-color: #2a7ae2; /* Blue for header */
+    color: white; /* White text for header */
     text-transform: uppercase;
+    font-weight: bold;
 }
 
 table.skills-table td {
-    background-color: white;
+    color: #333;
+}
+
+table.skills-table tr:nth-child(even) td {
+    background-color: #f9f9f9; /* Alternating light gray rows */
 }
 
 /* Contact Section */
 .contact {
     text-align: center;
     padding: 20px;
-    background-color: #007acc;
+    background-color: #2a7ae2;
     color: white;
 }
 
 .contact a {
-    color: #f9f9f9;
+    color: #f5f5f5;
     text-decoration: none;
     font-weight: bold;
 }
