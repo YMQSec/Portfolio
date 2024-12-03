@@ -1,6 +1,10 @@
-remote_theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+
+# Enable dark mode
+minima:
+  skin: dark
 
 include:
   - assets/css/style.css
