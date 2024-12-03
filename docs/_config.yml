@@ -2,7 +2,7 @@
 title: "Yansiel Melendez Portfolio"
 description: "Portfolio website showcasing my skills, certifications, and projects in cybersecurity."
 url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
-baseurl: "" # Leave empty unless you use a custom domain
+baseurl: "" # Leave empty unless using a custom domain
 
 # Author details
 author:
@@ -18,27 +18,10 @@ plugins:
   - jekyll-sitemap
 
 # Theme
-theme: minima # Replace with your chosen theme, e.g., minimal, cayman, etc.
+theme: minima # Replace with your chosen theme
 
 # Markdown settings
 markdown: kramdown
 kramdown:
-  input: GFM # Enable GitHub Flavored Markdown
-  syntax_highlighter: rouge # Syntax highlighting for code snippets
-
-# Navigation
-collections:
-  projects:
-    output: true
-    permalink: /projects/:title/
-
-# Build settings
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor
-
-# Pagination (optional, if you want blog posts or project listings)
-paginate: 5
-paginate_path: "/page:num/"
+  input: GFM
+  syntax_highlighter: rouge
