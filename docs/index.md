@@ -5,6 +5,7 @@ layout: default
 
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
+<body class="custom">
 <div class="hero">
   <h1>Yansiel Melendez</h1>
   <p>Cybersecurity Specialist | Ethical Hacker | Tech Enthusiast</p>
@@ -20,31 +21,35 @@ I’m a cybersecurity specialist with a passion for protecting data and systems.
 
 ## 🔧 Skills
 
-| **Skill**           | **Description**                              |
-|----------------------|----------------------------------------------|
-| **Python & Bash**    | Scripting and automation tools              |
-| **Wireshark & Nmap** | Network analysis and vulnerability scanning |
-| **ELK Stack**        | Log analysis and visualization              |
-| **Cryptography**     | Secure coding and encryption techniques     |
-
----
-
-
----
-
-## 🚀 Projects
-### 1. **Password Strength Analyzer**
-- 🔒 *A Python tool to evaluate password strength and suggest improvements.*
-
-### 2. **Packet Sniffer**
-- 📡 *A Python-based tool to capture and analyze network packets.*
-
-### 3. **Vulnerability Scanner**
-- 🔍 *Automates scans using Nmap and generates detailed reports.*
+<table class="skills-table">
+  <tr>
+    <th>Skill</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Python & Bash</td>
+    <td>Scripting and automation tools</td>
+  </tr>
+  <tr>
+    <td>Wireshark & Nmap</td>
+    <td>Network analysis and vulnerability scanning</td>
+  </tr>
+  <tr>
+    <td>ELK Stack</td>
+    <td>Log analysis and visualization</td>
+  </tr>
+  <tr>
+    <td>Cryptography</td>
+    <td>Secure coding and encryption techniques</td>
+  </tr>
+</table>
 
 ---
 
 ## 📞 Contact Me
-Feel free to reach out via email or connect with me on GitHub:
-- 📧 **Email:** your.email@example.com
-- 🖥️ [GitHub Profile](https://github.com/YMQSec)
+<div class="contact">
+  Feel free to reach out via email or connect with me on GitHub:
+  <p>📧 <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+  <p>🖥️ <a href="https://github.com/YMQSec">GitHub Profile</a></p>
+</div>
+</body>
