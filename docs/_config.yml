@@ -5,6 +5,3 @@ plugins:
 # Enable dark mode
 minima:
   skin: dark
-
-include:
-  - assets/css/style.css
