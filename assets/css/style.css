@@ -1,8 +1,8 @@
-/* General Styling - Aligned with Cayman Theme */
-body.custom {
-    font-family: "Helvetica Neue", Arial, sans-serif; /* Matches Cayman default font */
-    color: #333; /* Professional dark text */
-    background-color: #f5f5f5; /* Light gray background */
+/* General Styling */
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+    background-color: #f7f7f7;
     margin: 0;
     padding: 0;
 }
@@ -11,8 +11,9 @@ body.custom {
 .hero {
     text-align: center;
     padding: 50px 20px;
-    background-color: #2a7ae2; /* Matches Cayman blue */
+    background-color: #005f73; /* Calming teal shade */
     color: white;
+    border-bottom: 5px solid #0a9396; /* Slight border to separate sections */
 }
 
 .hero h1 {
@@ -30,7 +31,7 @@ body.custom {
     display: inline-block;
     text-decoration: none;
     color: white;
-    background-color: #1455a3; /* Darker blue for contrast */
+    background-color: #0a9396;
     padding: 15px 30px;
     font-size: 1rem;
     border-radius: 5px;
@@ -38,15 +39,17 @@ body.custom {
 }
 
 .hero .cta:hover {
-    background-color: #0f3e74;
+    background-color: #94d2bd; /* Slightly lighter teal on hover */
 }
 
 /* Section Titles */
 h2.section-title {
     font-size: 2rem;
-    color: #2a7ae2; /* Matches Cayman theme colors */
+    color: #005f73;
     margin-top: 40px;
     text-align: center;
+    border-bottom: 2px solid #0a9396;
+    padding-bottom: 5px;
 }
 
 /* Skills Table */
@@ -55,41 +58,46 @@ table.skills-table {
     width: 100%;
     margin: 20px 0;
     font-size: 1rem;
-    background-color: white; /* Light background for table */
-    border: 1px solid #ddd; /* Subtle border for table */
+    background-color: white;
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for a clean look */
 }
 
-table.skills-table th,
+table.skills-table th, 
 table.skills-table td {
+    border: 1px solid #ddd; /* Light border for clarity */
     padding: 10px;
     text-align: left;
 }
 
 table.skills-table th {
-    background-color: #2a7ae2; /* Blue for header */
-    color: white; /* White text for header */
-    text-transform: uppercase;
+    background-color: #005f73; /* Header background matching hero */
+    color: white;
     font-weight: bold;
+    text-transform: uppercase;
 }
 
 table.skills-table td {
-    color: #333;
+    color: #333; /* Darker text for contrast */
 }
 
-table.skills-table tr:nth-child(even) td {
-    background-color: #f9f9f9; /* Alternating light gray rows */
+tr:nth-child(even) td {
+    background-color: #f1f5f9; /* Light alternating row color */
 }
 
 /* Contact Section */
 .contact {
     text-align: center;
     padding: 20px;
-    background-color: #2a7ae2;
+    background-color: #005f73;
     color: white;
+    margin-top: 40px;
+    border-top: 5px solid #0a9396;
 }
 
 .contact a {
-    color: #f5f5f5;
+    color: #94d2bd;
     text-decoration: none;
     font-weight: bold;
 }
