@@ -69,8 +69,8 @@ I am currently developing a portfolio of hands-on projects to showcase my skills
 ## **📫 Let’s Connect**
 I’m eager to join a team where I can contribute to protecting digital ecosystems while continuing to grow as a cybersecurity professional. Let’s collaborate to make cyberspace safer.
 
-- **📧 Email:** [Insert Email Address]
-- **💼 LinkedIn:** [Insert LinkedIn Profile]
+- **📧 Email:** [yansiel.melendez@gmail.com]
+- **💼 LinkedIn:** [(https://www.linkedin.com/in/yansiel-melendez/)]
 
 ---
 
