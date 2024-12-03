@@ -3,4 +3,4 @@ plugins:
   - jekyll-remote-theme
 
 include:
-  - assets/css/style.css
+  - docs/assets/css/style.css
