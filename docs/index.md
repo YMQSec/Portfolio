@@ -3,6 +3,8 @@ layout: default
 title: "Yansiel Melendez Portfolio"
 ---
 
+<link rel="stylesheet" href="/docs/assets/css/styles.css">
+
 <nav>
   <a href="#welcome">Welcome</a> |
   <a href="#why-hire-me">Why Hire Me?</a> |
