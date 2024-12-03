@@ -18,24 +18,28 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Ensure table integrates seamlessly with the Hacker theme */
 table {
     border-collapse: collapse;
     width: 100%;
     margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
 }
 
 th, td {
-    border: 1px solid #333; /* Border for table cells */
-    padding: 10px;
+    border: 1px solid #45a29e; /* Hacker theme's accent color */
+    padding: 10px 15px;       /* Add spacing for readability */
 }
 
 th {
-    background-color: #45a29e; /* Header row background */
-    color: #fff;             /* Header text color */
+    background-color: #45a29e; /* Match the Hacker theme accent color */
+    color: #0b0c10;            /* Dark text for contrast */
     font-weight: bold;
+    text-transform: uppercase;
 }
 
 td {
-    background-color: #1f2833; /* Alternating row background */
-    color: #c5c6c7;            /* Table content text color */
+    background-color: #1f2833; /* Dark background to match Hacker theme */
+    color: #c5c6c7;            /* Light text color for readability */
 }
