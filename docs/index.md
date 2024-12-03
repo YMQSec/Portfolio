@@ -3,44 +3,45 @@ title: Yansiel Melendez - Cybersecurity Specialist
 layout: default
 ---
 
-<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+# 🛡️ Yansiel Melendez
 
-<div class="hero">
-  <h1>Yansiel Melendez</h1>
-  <p>Cybersecurity Specialist | Ethical Hacker | Tech Enthusiast</p>
-  <a href="https://github.com/YMQSec" class="cta">View My GitHub</a>
-</div>
+Welcome to my professional portfolio! I’m a cybersecurity specialist passionate about protecting systems and data. Explore my projects, skills, and achievements below.
 
 ---
 
 ## 🧑‍💻 About Me
-I’m a cybersecurity specialist with a passion for protecting data and systems. I hold Security+ and Network+ certifications and am currently building my portfolio to showcase my expertise in vulnerability scanning, network analysis, and ethical hacking.
+
+I’m a certified cybersecurity specialist (Security+ and Network+), actively building expertise in ethical hacking, vulnerability analysis, and secure coding practices. I’m dedicated to staying ahead of emerging threats in the digital world.
 
 ---
 
 ## 🔧 Skills
-| **Skill**           | **Description**                   |
-|----------------------|-----------------------------------|
-| Python & Bash        | Scripting and automation tools   |
-| Wireshark & Nmap     | Network analysis and scanning    |
-| ELK Stack            | Log analysis and visualization   |
-| Cryptography         | Secure coding and encryption     |
+
+| **Skill**           | **Description**                              |
+|----------------------|----------------------------------------------|
+| **Python & Bash**    | Scripting and automation tools              |
+| **Wireshark & Nmap** | Network analysis and vulnerability scanning |
+| **ELK Stack**        | Log analysis and visualization              |
+| **Cryptography**     | Secure coding and encryption techniques     |
 
 ---
 
 ## 🚀 Projects
-### 1. **Password Strength Analyzer**
-- 🔒 *A Python tool to evaluate password strength and suggest improvements.*
 
-### 2. **Packet Sniffer**
-- 📡 *A Python-based tool to capture and analyze network packets.*
+### Password Strength Analyzer
+A Python-based tool to evaluate password strength and provide recommendations for improvement.
 
-### 3. **Vulnerability Scanner**
-- 🔍 *Automates scans using Nmap and generates detailed reports.*
+### Packet Sniffer
+A Python application for capturing and analyzing network packets.
+
+### Vulnerability Scanner
+Automated vulnerability scanning using Nmap with detailed reporting.
 
 ---
 
 ## 📞 Contact Me
-Feel free to reach out via email or connect with me on GitHub:
+
+Feel free to connect with me:
+
 - 📧 **Email:** your.email@example.com
 - 🖥️ [GitHub Profile](https://github.com/YMQSec)
