@@ -1,7 +1,4 @@
 ---
-layout: default
-title: "Yansiel Melendez | Cybersecurity Specialist"
----
 <nav>
   <a href="#welcome">Welcome</a> |
   <a href="#why-hire-me">Why Hire Me?</a> |
