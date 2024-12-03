@@ -1,5 +1,5 @@
-/* General Styling */
-body {
+/* General Styling - Scoped for Professional Look */
+body.custom {
     font-family: "Arial", sans-serif; /* Professional and clean */
     color: #333;
     background-color: #f9f9f9;
@@ -42,43 +42,37 @@ body {
 }
 
 /* Section Titles */
-h2 {
+h2.section-title {
     font-size: 2rem;
     color: #007acc;
     margin-top: 40px;
     text-align: center;
 }
 
-/* Skills Table */
-table {
-    width: 100%;              /* Full width for consistency */
+/* Skills Table - Scoped to Avoid Interference */
+table.skills-table {
     border-collapse: collapse;
-    margin: 20px 0;           /* Spacing around the table */
-    font-size: 1rem;          /* Professional font size */
+    width: 100%;
+    margin: 20px 0;
+    font-size: 1rem;
 }
 
-th, td {
-    padding: 10px 15px;       /* Padding for readability */
-    border: 1px solid #ddd;   /* Subtle border for clarity */
-    text-align: left;         /* Align text to the left */
+table.skills-table th, 
+table.skills-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
 }
 
-th {
-    background-color: #007acc; /* Accent color for header */
-    color: white;             /* White text for header */
-    font-weight: bold;
+table.skills-table th {
+    background-color: #007acc;
+    color: white;
     text-transform: uppercase;
 }
 
-td {
-    background-color: #f9f9f9; /* Light gray background for rows */
-    color: #333;              /* Dark text for content */
+table.skills-table td {
+    background-color: white;
 }
-
-tr:nth-child(even) td {
-    background-color: #eef6fc; /* Alternate row color for readability */
-}
-
 
 /* Contact Section */
 .contact {
