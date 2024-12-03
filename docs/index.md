@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "false"
+title: false
 ---
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
