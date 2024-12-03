@@ -40,6 +40,7 @@ Explore my journey in cybersecurity! Here you’ll find projects, skills, and ro
 ---
 
 ## 🔧 Skills & Tools
+
 | **Skill**            | **Description**                   |
 |----------------------|-----------------------------------|
 | Python & Bash        | Scripting and automation tools   |
