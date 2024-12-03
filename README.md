@@ -1,7 +1,3 @@
----
-title: My Cybersecurity Portfolio
-layout: default
----
 # 🛡️ Cybersecurity Portfolio Roadmap
 
 Welcome to my cybersecurity portfolio! Below is a roadmap of projects I plan to complete, with a focus on enhancing my skills and showcasing my capabilities in cybersecurity.
