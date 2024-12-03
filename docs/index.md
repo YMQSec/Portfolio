@@ -3,51 +3,50 @@ title: Welcome to My Cybersecurity Portfolio
 layout: default
 ---
 
-# 🛡️ Cybersecurity Portfolio Roadmap
+# 🛡️ Welcome to My Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio! Below is a roadmap of projects I plan to complete, with a focus on enhancing my skills and showcasing my capabilities in cybersecurity.
+Explore my journey in cybersecurity! Here you’ll find projects, skills, and roadmaps that highlight my capabilities.
 
-## 🚀 Roadmap
+## 🚀 Project Roadmap
 
-### ✅ Completed Projects
+### ✅ **Completed Projects**
+> **Check here soon for updates!**
 
-  Check here soon.
-
-
----
-
-### 📌 In-Progress Projects
+### 📌 **In-Progress Projects**
 - [ ] **Password Strength Analyzer**  
-  A tool to evaluate password strength and suggest improvements.  
+  > 🔒 *A tool to evaluate password strength and suggest improvements.*
 
 - [ ] **Packet Sniffer**  
-  A Python-based tool to capture and analyze network packets.
+  > 📡 *A Python-based tool to capture and analyze network packets.*
 
 - [ ] **Vulnerability Scanning Script**  
-  Automating vulnerability scans with Nmap and generating reports.
+  > 🔍 *Automating vulnerability scans with Nmap and generating reports.*
 
 - [ ] **Incident Response Playbook**  
-  A structured guide for responding to common security incidents.
+  > 📓 *A structured guide for responding to common security incidents.*
 
----
-
-### 📅 Upcoming Projects
+### 📅 **Upcoming Projects**
 1. **Basic SIEM Implementation**  
-   Setting up a small-scale SIEM system with open-source tools.
+   🖥️ Setting up a small-scale SIEM system with open-source tools.
+
 2. **Custom Honeypot**  
-   Building a honeypot to detect unauthorized access attempts.
+   🔥 Building a honeypot to detect unauthorized access attempts.
+
 3. **Malware Analysis Sandbox**  
-   Creating a safe environment for analyzing malware behavior.
+   ⚙️ Creating a safe environment for analyzing malware behavior.
 
 ---
 
-## 🔧 Tools and Skills
-- Python, Bash, Wireshark, Nmap, Metasploit, ELK Stack
-- Cryptography, Secure Coding Practices, Ethical Hacking
+## 🔧 Skills & Tools
+| **Skill**            | **Description**                   |
+|----------------------|-----------------------------------|
+| Python & Bash        | Scripting and automation tools   |
+| Wireshark & Nmap     | Network analysis and scanning    |
+| ELK Stack            | Log analysis and visualization   |
+| Cryptography         | Secure coding and encryption     |
 
 ---
 
-Feel free to check out my projects and their progress. Feedback is always welcome!
-
-🌟 **Follow my journey:** [GitHub Profile](https://github.com/YMQSec)
-
+🌟 **Follow my journey:**  
+- 🖥️ [GitHub Profile](https://github.com/YMQSec)
+- ✉️ [Contact Me](mailto:your.email@example.com)
