@@ -1,40 +1,23 @@
 # Site settings
 title: "Yansiel Melendez | Cybersecurity Specialist"
-description: "Welcome to my portfolio! Explore my journey in cybersecurity, certifications, and projects."
-baseurl: "" # Leave empty if deploying at root of a custom domain
+description: "Welcome to my portfolio site. Explore my journey in cybersecurity."
+baseurl: "" # Leave empty if deploying at the root
 url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
 
 # Theme settings
 theme: minima
 minima:
-  skin: null # Disable default skins to use custom CSS
+  skin: null # Disable Minima's default styles to use custom CSS
 
-# Enable GitHub Pages to process SCSS
+# SASS processing
 sass:
   style: compressed
 
-# Markdown processing
-markdown: kramdown
-kramdown:
-  input: GFM # GitHub-Flavored Markdown for better compatibility
-  syntax_highlighter_opts:
-    block:
-      theme: dark
-
-# Plugin settings (default plugins for GitHub Pages)
+# Plugin settings
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Custom paths
+# Include the custom CSS in the build
 include:
-  - docs/assets/css/style.css # Ensure the CSS file is included during build
-exclude:
-  - node_modules
-
-# Social links (optional)
-social_links:
-  - name: LinkedIn
-    url: "https://www.linkedin.com/in/yourprofile"
-  - name: Email
-    url: "mailto:your-email@example.com"
+  - docs/assets/css/style.css
