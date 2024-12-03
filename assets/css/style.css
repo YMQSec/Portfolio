@@ -1,45 +1,92 @@
-/* Add subtle enhancements while keeping the Hacker theme intact */
+/* General Styling */
 body {
-    font-family: "Courier New", Courier, monospace; /* Retain Hacker vibe */
-    background-color: #0b0c10; /* Darken the background slightly */
-    color: #c5c6c7; /* Light gray for better readability */
+    font-family: "Arial", sans-serif; /* Professional and clean */
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
 }
 
-h1, h2, h3 {
-    color: #66fcf1; /* Highlighted titles */
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #007acc;
+    color: white;
 }
 
-a {
-    color: #45a29e;
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.hero .cta {
+    display: inline-block;
     text-decoration: none;
+    color: white;
+    background-color: #005f99;
+    padding: 15px 30px;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: all 0.3s ease;
 }
 
-a:hover {
-    text-decoration: underline;
+.hero .cta:hover {
+    background-color: #003f66;
 }
 
-/* Ensure table integrates seamlessly with the Hacker theme */
+/* Section Titles */
+h2 {
+    font-size: 2rem;
+    color: #007acc;
+    margin-top: 40px;
+    text-align: center;
+}
+
+/* Skills Table */
 table {
     border-collapse: collapse;
     width: 100%;
     margin: 20px 0;
-    font-size: 16px;
-    text-align: left;
+    font-size: 1rem;
 }
 
 th, td {
-    border: 1px solid #45a29e; /* Hacker theme's accent color */
-    padding: 10px 15px;       /* Add spacing for readability */
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
 }
 
 th {
-    background-color: #45a29e; /* Match the Hacker theme accent color */
-    color: #0b0c10;            /* Dark text for contrast */
-    font-weight: bold;
+    background-color: #007acc;
+    color: white;
     text-transform: uppercase;
 }
 
 td {
-    background-color: #1f2833; /* Dark background to match Hacker theme */
-    color: #c5c6c7;            /* Light text color for readability */
+    background-color: white;
+}
+
+/* Contact Section */
+.contact {
+    text-align: center;
+    padding: 20px;
+    background-color: #007acc;
+    color: white;
+}
+
+.contact a {
+    color: #f9f9f9;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.contact a:hover {
+    text-decoration: underline;
 }
