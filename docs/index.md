@@ -2,6 +2,7 @@
 layout: default
 title: "Yansiel Melendez | Cybersecurity Specialist"
 ---
+<link rel="stylesheet" href="/assets/css/style.css">
 
 # **👨‍💻 Yansiel Melendez**
 
