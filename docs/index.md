@@ -12,7 +12,11 @@ title: "Yansiel Melendez | Cybersecurity Specialist"
 </nav>
 ---
 <link rel="stylesheet" href="/docs/assests/css/styles.css">
-
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+---
+<meta name="description" content="Yansiel Melendez's cybersecurity portfolio website showcasing skills, certifications, and projects.">
+<meta name="author" content="Yansiel Melendez">
+---
 
 # **👨‍💻 Yansiel Melendez**
 
