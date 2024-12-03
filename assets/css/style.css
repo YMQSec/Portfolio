@@ -1,8 +1,8 @@
 /* General Styling */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: #333;
-    background-color: #f7f7f7;
+    background-color: #121212; /* Dark background */
+    color: #e0e0e0;           /* Light text */
     margin: 0;
     padding: 0;
 }
@@ -11,9 +11,8 @@ body {
 .hero {
     text-align: center;
     padding: 50px 20px;
-    background-color: #005f73; /* Calming teal shade */
-    color: white;
-    border-bottom: 5px solid #0a9396; /* Slight border to separate sections */
+    background-color: #1e1e1e; /* Darker hero section */
+    color: #66fcf1;            /* Soft teal text */
 }
 
 .hero h1 {
@@ -31,7 +30,7 @@ body {
     display: inline-block;
     text-decoration: none;
     color: white;
-    background-color: #0a9396;
+    background-color: #2f4f4f; /* Muted teal */
     padding: 15px 30px;
     font-size: 1rem;
     border-radius: 5px;
@@ -39,16 +38,17 @@ body {
 }
 
 .hero .cta:hover {
-    background-color: #94d2bd; /* Slightly lighter teal on hover */
+    background-color: #66fcf1;
+    color: #121212;
 }
 
 /* Section Titles */
 h2.section-title {
     font-size: 2rem;
-    color: #005f73;
+    color: #66fcf1;
     margin-top: 40px;
     text-align: center;
-    border-bottom: 2px solid #0a9396;
+    border-bottom: 2px solid #2f4f4f;
     padding-bottom: 5px;
 }
 
@@ -58,46 +58,46 @@ table.skills-table {
     width: 100%;
     margin: 20px 0;
     font-size: 1rem;
-    background-color: white;
+    background-color: #1e1e1e;
     border-radius: 5px;
     overflow: hidden;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for a clean look */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
 }
 
-table.skills-table th, 
+table.skills-table th,
 table.skills-table td {
-    border: 1px solid #ddd; /* Light border for clarity */
+    border: 1px solid #333;
     padding: 10px;
     text-align: left;
 }
 
 table.skills-table th {
-    background-color: #005f73; /* Header background matching hero */
-    color: white;
+    background-color: #2f4f4f; /* Slightly lighter for header */
+    color: #e0e0e0;
     font-weight: bold;
     text-transform: uppercase;
 }
 
 table.skills-table td {
-    color: #333; /* Darker text for contrast */
+    color: #e0e0e0;
 }
 
 tr:nth-child(even) td {
-    background-color: #f1f5f9; /* Light alternating row color */
+    background-color: #1a1a1a;
 }
 
 /* Contact Section */
 .contact {
     text-align: center;
     padding: 20px;
-    background-color: #005f73;
-    color: white;
+    background-color: #1e1e1e;
+    color: #66fcf1;
     margin-top: 40px;
-    border-top: 5px solid #0a9396;
+    border-top: 5px solid #2f4f4f;
 }
 
 .contact a {
-    color: #94d2bd;
+    color: #66fcf1;
     text-decoration: none;
     font-weight: bold;
 }
