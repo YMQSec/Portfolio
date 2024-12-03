@@ -1,5 +1,3 @@
-title: "Yansiel Melendez Portfolio"
-description: "Portfolio showcasing cybersecurity skills, certifications, and projects."
 theme: minima
 plugins:
   - jekyll-feed
