@@ -3,6 +3,8 @@ title: Welcome to My Cybersecurity Portfolio
 layout: default
 ---
 
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
 # 🛡️ Welcome to My Cybersecurity Portfolio
 
 Explore my journey in cybersecurity! Here you’ll find projects, skills, and roadmaps that highlight my capabilities.
