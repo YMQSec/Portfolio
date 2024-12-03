@@ -24,16 +24,18 @@ table {
     margin: 20px 0;
 }
 
-table, th, td {
-    border: 1px solid #1f2833;
-    padding: 8px;
+th, td {
+    border: 1px solid #333; /* Border for table cells */
+    padding: 10px;
 }
 
 th {
-    background-color: #45a29e;
-    color: #0b0c10;
+    background-color: #45a29e; /* Header row background */
+    color: #fff;             /* Header text color */
+    font-weight: bold;
 }
 
 td {
-    color: #c5c6c7;
+    background-color: #1f2833; /* Alternating row background */
+    color: #c5c6c7;            /* Table content text color */
 }
