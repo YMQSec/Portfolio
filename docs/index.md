@@ -1,46 +1,24 @@
 ---
-title: Welcome to My Cybersecurity Portfolio
+title: Yansiel Melendez - Cybersecurity Specialist
 layout: default
 ---
 
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
-# 🛡️ Welcome to My Cybersecurity Portfolio
-
-Explore my journey in cybersecurity! Here you’ll find projects, skills, and roadmaps that highlight my capabilities.
-
-## 🚀 Project Roadmap
-
-### ✅ **Completed Projects**
-> **Check here soon for updates!**
-
-### 📌 **In-Progress Projects**
-- [ ] **Password Strength Analyzer**  
-  > 🔒 *A tool to evaluate password strength and suggest improvements.*
-
-- [ ] **Packet Sniffer**  
-  > 📡 *A Python-based tool to capture and analyze network packets.*
-
-- [ ] **Vulnerability Scanning Script**  
-  > 🔍 *Automating vulnerability scans with Nmap and generating reports.*
-
-- [ ] **Incident Response Playbook**  
-  > 📓 *A structured guide for responding to common security incidents.*
-
-### 📅 **Upcoming Projects**
-1. **Basic SIEM Implementation**  
-   🖥️ Setting up a small-scale SIEM system with open-source tools.
-
-2. **Custom Honeypot**  
-   🔥 Building a honeypot to detect unauthorized access attempts.
-
-3. **Malware Analysis Sandbox**  
-   ⚙️ Creating a safe environment for analyzing malware behavior.
+<div class="hero">
+  <h1>Yansiel Melendez</h1>
+  <p>Cybersecurity Specialist | Ethical Hacker | Tech Enthusiast</p>
+  <a href="https://github.com/YMQSec" class="cta">View My GitHub</a>
+</div>
 
 ---
 
-## 🔧 Skills & Tools
+## 🧑‍💻 About Me
+I’m a cybersecurity specialist with a passion for protecting data and systems. I hold Security+ and Network+ certifications and am currently building my portfolio to showcase my expertise in vulnerability scanning, network analysis, and ethical hacking.
 
+---
+
+## 🔧 Skills
 | **Skill**           | **Description**                   |
 |----------------------|-----------------------------------|
 | Python & Bash        | Scripting and automation tools   |
@@ -50,6 +28,19 @@ Explore my journey in cybersecurity! Here you’ll find projects, skills, and ro
 
 ---
 
-🌟 **Follow my journey:**  
+## 🚀 Projects
+### 1. **Password Strength Analyzer**
+- 🔒 *A Python tool to evaluate password strength and suggest improvements.*
+
+### 2. **Packet Sniffer**
+- 📡 *A Python-based tool to capture and analyze network packets.*
+
+### 3. **Vulnerability Scanner**
+- 🔍 *Automates scans using Nmap and generates detailed reports.*
+
+---
+
+## 📞 Contact Me
+Feel free to reach out via email or connect with me on GitHub:
+- 📧 **Email:** your.email@example.com
 - 🖥️ [GitHub Profile](https://github.com/YMQSec)
-- ✉️ [Contact Me](mailto:your.email@example.com)
