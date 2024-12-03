@@ -38,6 +38,7 @@ Explore my journey in cybersecurity! Here you’ll find projects, skills, and ro
    ⚙️ Creating a safe environment for analyzing malware behavior.
 
 ---
+
 ## 🔧 Skills & Tools
 
 | **Skill**           | **Description**                   |
@@ -46,6 +47,7 @@ Explore my journey in cybersecurity! Here you’ll find projects, skills, and ro
 | Wireshark & Nmap     | Network analysis and scanning    |
 | ELK Stack            | Log analysis and visualization   |
 | Cryptography         | Secure coding and encryption     |
+
 ---
 
 🌟 **Follow my journey:**  
