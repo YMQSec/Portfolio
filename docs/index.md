@@ -19,12 +19,16 @@ I’m a cybersecurity specialist with a passion for protecting data and systems.
 ---
 
 ## 🔧 Skills
-| **Skill**           | **Description**                   |
-|----------------------|-----------------------------------|
-| Python & Bash        | Scripting and automation tools   |
-| Wireshark & Nmap     | Network analysis and scanning    |
-| ELK Stack            | Log analysis and visualization   |
-| Cryptography         | Secure coding and encryption     |
+
+| **Skill**           | **Description**                              |
+|----------------------|----------------------------------------------|
+| **Python & Bash**    | Scripting and automation tools              |
+| **Wireshark & Nmap** | Network analysis and vulnerability scanning |
+| **ELK Stack**        | Log analysis and visualization              |
+| **Cryptography**     | Secure coding and encryption techniques     |
+
+---
+
 
 ---
 
