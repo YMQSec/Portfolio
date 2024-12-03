@@ -1,17 +1,16 @@
+/* Add subtle enhancements while keeping the Hacker theme intact */
 body {
-    font-family: "Arial", sans-serif;
-    line-height: 1.6;
-    margin: 20px;
-    background-color: #f4f4f9;
-    color: #333;
+    font-family: "Courier New", Courier, monospace; /* Retain Hacker vibe */
+    background-color: #0b0c10; /* Darken the background slightly */
+    color: #c5c6c7; /* Light gray for better readability */
 }
 
-h1, h2 {
-    color: #007acc;
+h1, h2, h3 {
+    color: #66fcf1; /* Highlighted titles */
 }
 
 a {
-    color: #ff5733;
+    color: #45a29e;
     text-decoration: none;
 }
 
@@ -22,18 +21,19 @@ a:hover {
 table {
     border-collapse: collapse;
     width: 100%;
+    margin: 20px 0;
 }
 
 table, th, td {
-    border: 1px solid #ddd;
+    border: 1px solid #1f2833;
     padding: 8px;
 }
 
 th {
-    background-color: #007acc;
-    color: white;
+    background-color: #45a29e;
+    color: #0b0c10;
 }
 
-th, td {
-    text-align: left;
+td {
+    color: #c5c6c7;
 }
