@@ -51,27 +51,34 @@ h2 {
 
 /* Skills Table */
 table {
+    width: 100%;              /* Full width for consistency */
     border-collapse: collapse;
-    width: 100%;
-    margin: 20px 0;
-    font-size: 1rem;
+    margin: 20px 0;           /* Spacing around the table */
+    font-size: 1rem;          /* Professional font size */
 }
 
 th, td {
-    border: 1px solid #ddd;
-    padding: 10px;
-    text-align: left;
+    padding: 10px 15px;       /* Padding for readability */
+    border: 1px solid #ddd;   /* Subtle border for clarity */
+    text-align: left;         /* Align text to the left */
 }
 
 th {
-    background-color: #007acc;
-    color: white;
+    background-color: #007acc; /* Accent color for header */
+    color: white;             /* White text for header */
+    font-weight: bold;
     text-transform: uppercase;
 }
 
 td {
-    background-color: white;
+    background-color: #f9f9f9; /* Light gray background for rows */
+    color: #333;              /* Dark text for content */
 }
+
+tr:nth-child(even) td {
+    background-color: #eef6fc; /* Alternate row color for readability */
+}
+
 
 /* Contact Section */
 .contact {
