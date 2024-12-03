@@ -38,6 +38,7 @@ Explore my journey in cybersecurity! Here you’ll find projects, skills, and ro
    ⚙️ Creating a safe environment for analyzing malware behavior.
 
 ---
+
 ## 🔧 Skills & Tools
 
 | **Skill**           | **Description**                   |
