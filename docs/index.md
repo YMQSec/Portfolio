@@ -1,4 +1,8 @@
 ---
+layout: default
+title: "Yansiel Melendez Portfolio"
+---
+
 <nav>
   <a href="#welcome">Welcome</a> |
   <a href="#why-hire-me">Why Hire Me?</a> |
@@ -7,13 +11,6 @@
   <a href="#career-roadmap">Career Roadmap</a> |
   <a href="#contact">Let’s Connect</a>
 </nav>
----
-<link rel="stylesheet" href="/docs/assests/css/styles.css">
-<link rel="icon" href="favicon.ico" type="image/x-icon">
----
-<meta name="description" content="Yansiel Melendez's cybersecurity portfolio website showcasing skills, certifications, and projects.">
-<meta name="author" content="Yansiel Melendez">
----
 
 # **👨‍💻 Yansiel Melendez**
 
@@ -88,3 +85,7 @@ I’m eager to join a team where I can contribute to protecting digital ecosyste
 
 ## **💡 Closing Thought**
 Cybersecurity is not just my career; it’s my mission. Let’s work together to solve today’s challenges and build a safer digital future.
+
+<footer>
+  &copy; 2024 Yansiel Melendez | [GitHub](https://github.com/YMQSec) | [LinkedIn](https://linkedin.com/in/yansiel-melendez)
+</footer>
