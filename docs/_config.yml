@@ -1,31 +1,13 @@
-theme: minima
-include:
-  - assets/css/styles.css
-
 # Site settings
 title: "Yansiel Melendez Portfolio"
 description: "Portfolio website showcasing my skills, certifications, and projects in cybersecurity."
-url: "https://ymqsec.github.io/Portfolio" # Replace with your GitHub Pages URL
-baseurl: "" # Leave empty unless using a custom domain
-
-# Author details
-author:
-  name: "Yansiel Melendez"
-  email: "yansiel.melendez@gmail.com"
-  github: "https://github.com/YMQSec"
-  linkedin: "https://www.linkedin.com/in/yansiel-melendez"
-
-# Plugins
+theme: minima # Change if using another GitHub Pages theme
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Theme
-theme: minima # Replace with your chosen theme
-
 # Markdown settings
 markdown: kramdown
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
