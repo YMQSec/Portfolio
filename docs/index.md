@@ -5,7 +5,6 @@ layout: default
 
 <link rel="stylesheet" type="text/css" href="assets/css/style.css">
 
-<body>
 <div class="hero">
   <h1>Yansiel Melendez</h1>
   <p>Cybersecurity Specialist | Ethical Hacker | Tech Enthusiast</p>
@@ -52,4 +51,3 @@ layout: default
   <p>📧 <a href="mailto:your.email@example.com">your.email@example.com</a></p>
   <p>🖥️ <a href="https://github.com/YMQSec">GitHub Profile</a></p>
 </div>
-</body>
