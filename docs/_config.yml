@@ -1,3 +1,7 @@
+theme: minima
+include:
+  - assets/css/styles.css
+
 # Site settings
 title: "Yansiel Melendez Portfolio"
 description: "Portfolio website showcasing my skills, certifications, and projects in cybersecurity."
