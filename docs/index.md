@@ -3,6 +3,8 @@ title: Yansiel Melendez - Cybersecurity Specialist
 layout: default
 ---
 
+<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+
 # 🛡️ Yansiel Melendez
 
 Welcome to my professional portfolio! I’m a cybersecurity specialist passionate about protecting systems and data. Explore my projects, skills, and achievements below.
